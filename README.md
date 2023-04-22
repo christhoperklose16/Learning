@@ -1,2 +1,2 @@
 # Learning
- All About Machine Learning
+ All About Learning
